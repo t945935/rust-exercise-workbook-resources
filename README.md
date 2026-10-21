@@ -27,6 +27,7 @@ cargo test
 - `exercises/ch06-data-models/`：第6章練習 06-30 至 06-36 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
 - `exercises/ch07-collections/`：第7章練習 07-37 至 07-43 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
 - `exercises/ch08-errors/`：第8章練習 08-44 至 08-49 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
+- `exercises/ch09-iterators/`：第9章練習 09-50 至 09-55 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
 
 後續資源依章稿完成逐步新增。題目、答案與測試需保持同一版本；下載時請查看 `rust-toolchain.toml`。資料均為合成資料，不需要帳號或真實個資。
 
