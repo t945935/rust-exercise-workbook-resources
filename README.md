@@ -30,6 +30,7 @@ cargo test
 - `exercises/ch09-iterators/`：第9章練習 09-50 至 09-55 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
 - `exercises/ch10-generics/`：第10章練習 10-56 至 10-61 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
 - `exercises/ch11-modules/`：第11章練習 11-62 至 11-66 的起始專案、單元／整合／文件測試；完成後執行 `cargo test` 驗收。
+- `exercises/ch12-cli/`：第12章練習 12-67 至 12-71 的 Cargo 專案、library、binary 與程序整合測試；完成後執行 `cargo test` 驗收。
 
 後續資源依章稿完成逐步新增。題目、答案與測試需保持同一版本；下載時請查看 `rust-toolchain.toml`。資料均為合成資料，不需要帳號或真實個資。
 
