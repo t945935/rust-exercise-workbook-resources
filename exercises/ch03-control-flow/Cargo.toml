@@ -1,0 +1,8 @@
+[package]
+name = "chapter03-control-flow"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+chapter02-values = { path = "../ch02-values" }
