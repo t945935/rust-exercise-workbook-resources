@@ -1,0 +1,15 @@
+[package]
+name = "pocket-ledger"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[lib]
+name = "pocket_ledger"
+path = "src/lib.rs"
+
+[[bin]]
+name = "pocket-ledger"
+path = "src/main.rs"
+
+[dependencies]

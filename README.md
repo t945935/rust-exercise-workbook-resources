@@ -32,7 +32,8 @@ cargo test
 - `exercises/ch11-modules/`：第11章練習 11-62 至 11-66 的起始專案、單元／整合／文件測試；完成後執行 `cargo test` 驗收。
 - `exercises/ch12-cli/`：第12章練習 12-67 至 12-71 的 Cargo 專案、library、binary 與程序整合測試；完成後執行 `cargo test` 驗收。
 
-後續資源依章稿完成逐步新增。題目、答案與測試需保持同一版本；下載時請查看 `rust-toolchain.toml`。資料均為合成資料，不需要帳號或真實個資。
+- `exercises/ch13-files/`：第13章練習 13-72 至 13-75，涵蓋 TSV 解析、行號錯誤、UTF-8 檔案讀取及相對路徑詞法檢查；四個 starter 測試預期因 `todo!()` RED。
+- `exercises/ch14-pocket-ledger/`：整合專案 14-76 至 14-80；含 library/binary 起始碼、公開測試及合成 TSV fixture。完成後執行 `cargo test` 驗收。
 
 ## 回報問題
 
