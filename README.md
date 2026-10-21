@@ -24,6 +24,8 @@ cargo test
 - `exercises/ch03-control-flow/`：第3章五題的起始函式與公開測試；依賴 `ch02-values` 的閏年函式。
 - `exercises/ch04-ownership/`：第4章練習 04-16 至 04-21 的起始函式與公開測試；04-22 為編譯錯誤診斷題。
 - `exercises/ch05-borrowing/`：第5章練習 05-23 至 05-27 的起始函式與公開測試；05-28、05-29 為借用選擇與錯誤診斷題。
+- `exercises/ch06-data-models/`：第6章練習 06-30 至 06-36 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
+- `exercises/ch07-collections/`：第7章練習 07-37 至 07-43 的起始函式與公開測試；完成後執行 `cargo test` 驗收。
 
 後續資源依章稿完成逐步新增。題目、答案與測試需保持同一版本；下載時請查看 `rust-toolchain.toml`。資料均為合成資料，不需要帳號或真實個資。
 
